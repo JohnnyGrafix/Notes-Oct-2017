@@ -1,0 +1,66 @@
+
+Graphics department training
+Monday Sept 18 - Friday Sept 22
+
+Topics covered
+
+
+AFP interactive graphics work space
+
+A) Starting a new interactive graphic project
+- use git_bash to creat a new directory on your local server
+- clone similar project from git_lab to your new directory
+- Open data-file in a text editor to replace contents with new material
+- Update index.html to fit with new content
+- Update css file for any necessary changes
+
+B) Developing a new interactive
+- Use git_lab for version control
+- Git_add to stage new version
+- Git commit -m "message" to commit changes
+- Git push to push commits to git_lab
+- Git pull see changes others have made
+
+
+C) Validating a new interactive graphic
+- Using firezilla to upload completed directories to Graphics.afpforum.com/build
+- All contents of the folder go to a new folder in "build"
+- Start new document in IRIS. 
+- Open binary before filling metadata. Paste link form "/build", and add suitable screen grab for prefiew window
+- Validate in the same way as usual
+
+
+Essential coding for AFP interactives
+
+- Basic html, css literacy needed
+- learn the differences in html tags, types of blocks etc
+- css best in external file sheet -- much easier for reusing code
+- keep in mind the hierarchy of Cascading Style Sheets
+- USe blocks and colums to organise for responsive design
+- Use media query (@media) for switching page organisation for different screen sizes
+- Take note of margins, paddings. Learn to use them to organise the page
+- Likewise with positions, absolute, relative
+- Use vue.js to separate content from html structure. Binds data to html.
+- Also explore other aspects of vue.js, many useful tools
+- Bootrstrap can also be used
+- D3 binds data to svg's. It is a very useful tool and we need to get D3 proficiency into the HK team.
+
+
+Publishing new interactives from HK
+
+- Current aim is to get production to around two or three a week on the resources we now have
+- HK's focus likely to stay on the smaller, quick turnaround graphics but contributions to larger projects are welcomed
+- Work
+
+
+HK graphics production model
+
+A) cURRENT
+- Daily breaking news coverage
+- Graphics planning and development for focus and feature stories
+- Interactive traning and new product testing
+
+B) NEW
+- Broaden formal training 
+- Interactive planning and proposal
+- Interactive building and production
